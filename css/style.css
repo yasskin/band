@@ -1,0 +1,16 @@
+
+img.bio {
+  float: left;
+  width: 300px;
+}
+
+.sidebar {
+  float: right;
+  width: 300px;
+  background-color: silver;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
